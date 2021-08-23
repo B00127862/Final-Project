@@ -1,0 +1,13 @@
+# Final-Project
+ https://assetstore.unity.com/packages/3d/props/simple-collectibles-pack-123092 			
+https://assetstore.unity.com/packages/2d/textures-materials/floors/hand-painted-grass-texture-78552 	NAME = Material_Grass
+https://assetstore.unity.com/packages/vfx/shaders/lava-flowing-shader-33635 		Name = Mtl_lava_simple/null
+https://www.chosic.com/download-audio/25139/						NAME = komiku_-_53_-_Time_Flutes_place
+https://soundcloud.com/maxkomusic/victory-no-copyright-background-music-cinematic-free-download		NAME = 	VICTORY
+https://mixkit.co/free-sound-effects/arcade/ 		NAME = pickUP
+https://www.chosic.com/download-audio/25499/			NAME = Loyalty_Freak_Music
+All other assests were imported from moodle.
+
+
+
+
